@@ -1,3 +1,3 @@
 # CSE519-2017-111491083
 
-Assignments for CSE 519- Data Science Fundamentals at Stony Brook Univeristy under Prof. Steven Skiena
+HW2 and HW3 were based on the Zillow Price Challenge on Kaggle (https://www.kaggle.com/c/zillow-prize-1). 
